@@ -9,8 +9,7 @@ Some of my interests within CS include:
 * Cybersecurity
 * Full Stack Development
 
-I enjoy experimentation and learning new things, from new tools and tech stacks, to small workflow optimizations
-
+I enjoy experimentation, learning new things, and optimizing and refactoring my code
 __Email__: ashx004@gmail.com
 
 __LinkedIn__: [Ashton Harrell](https://www.linkedin.com/in/ashton-harrell-05488a297/)
