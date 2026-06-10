@@ -10,6 +10,7 @@ Some of my interests within CS include:
 * Full Stack Development
 
 I enjoy experimentation, learning new things, and optimizing and refactoring my code
+
 __Email__: ashx004@gmail.com
 
 __LinkedIn__: [Ashton Harrell](https://www.linkedin.com/in/ashton-harrell-05488a297/)
