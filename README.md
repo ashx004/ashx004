@@ -9,9 +9,9 @@ Some of my interests within CS include:
 * Cybersecurity
 * Full Stack Development
 
-I enjoy experimentation, learning new things, and optimizing and refactoring my code
+I enjoy experimentation, learning new things, and learning unique solutions to problems
 
-Currently, I am working on my [capstone](https://github.com/ashx004/csc4052_senior_design), and I am working on recreating the [transformer architecture](https://github.com/ashx004/CSC4903-transformer) for an applied computing project at Latech.
+Currently, I am working on my [capstone](https://github.com/ashx004/csc4052_senior_design), and I am working on recreating the [transformer architecture](https://github.com/ashx004/CSC4903-transformer) for an applied computing project at Latech, as well as creating a [RAG advising chatbot](https://github.com/ashx004/csc4903-advising) using Louisiana Tech advising materials.
 
 __Email__: ashx004@gmail.com
 
