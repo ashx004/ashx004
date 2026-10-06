@@ -11,7 +11,7 @@ Some of my interests within CS include:
 
 I enjoy experimentation, learning new things, and learning unique solutions to problems
 
-Currently, I am working on my [capstone](https://github.com/ashx004/csc4052_senior_design), and I am working on recreating the [transformer architecture](https://github.com/ashx004/CSC4903-transformer) for an applied computing project at Latech, as well as creating a [RAG advising chatbot](https://github.com/ashx004/csc4903-advising) using Louisiana Tech advising materials.
+Currently, I am working on my senior capstone project, which can be found on the active site [here](https://catalyst.zonocsc.com). The source code for my capstone can be found [here](https://github.com/ashx004/csc4052_senior_design). 
 
 __Email__: ashx004@gmail.com
 
