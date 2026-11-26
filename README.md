@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ## My name is Ashton Harrell
-I am a senior Computer Science major with a minor in Mathematics at Louisiana Tech University, graduating in Fall of 2026.
+I am a computer science graduate from Louisiana Tech looking for opportunities in software engineering and development. 
 
 Some of my interests within CS include:
 * Programming Languages & Paradigms
@@ -9,7 +9,7 @@ Some of my interests within CS include:
 * Cybersecurity
 * Full Stack Development
 
-I enjoy experimentation, learning new things, and learning unique solutions to problems
+I enjoy experimentation, learning new tools, and finding unique solutions to problems
 
 Currently, I am working on my senior capstone project, which can be found on the active site [here](https://catalyst.zonocsc.com). The source code for my capstone can be found [here](https://github.com/ashx004/csc4052_senior_design). 
 
